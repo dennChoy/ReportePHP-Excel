@@ -3,3 +3,8 @@
 -- Sigo editando la información para ver que pasa
 -- Cuarta modificacion en el txt
 -- Despues de primer pull request
+
+
+*******************************************
+Links para aprender mas de GIT
+http://www.franmoreno.com/manuales/primeros-pasos-con-git-y-github/ 
